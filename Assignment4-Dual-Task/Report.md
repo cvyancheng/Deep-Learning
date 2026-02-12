@@ -1,6 +1,6 @@
 # 多任務 PCB 瑕疵檢測模型訓練診斷報告
 
-# Assignment - Multi-Task Learning Analysis Report
+# Assignment 4 - Multi-Task Learning Analysis Report
 
 課程名稱： 影像處理/深度學習相關課程
 學生姓名： 林彥成 Yan-Cheng Lin
