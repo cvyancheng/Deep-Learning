@@ -1,0 +1,24 @@
+# --- Python 虛擬環境 ---
+# 忽略名為 ai_env 的虛擬環境資料夾
+ai_env/
+# 同時建議忽略標準的 Python 快取與編譯檔
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 影像資料夾處理 ---
+# 忽略 DeepPCB 與 VisA_PCB_Subset 內的所有內容，但保留資料夾本身
+DeepPCB/*
+!DeepPCB/.gitkeep
+
+VisA_PCB_Subset/*
+!VisA_PCB_Subset/.gitkeep
+
+PKU-Market-PCB(Data enhanced version)/*
+
+# 忽略所有常見影像格式（可選，增加保險）
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
